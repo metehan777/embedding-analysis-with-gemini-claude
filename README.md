@@ -1,6 +1,8 @@
 
 # Embedding Analysis Tool for SEO
 
+Read blog post here: https://metehan.ai/blog/embedding-seo-tool-analysis/
+
 ## What This Tool Does
 
 This tool provides in-depth analysis of content embeddings to help with SEO optimization. It:
